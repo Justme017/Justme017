@@ -61,6 +61,4 @@
 
 ###
 
-<div align="center">
-      [![Spotify](https://test-five-omega-80.vercel.app/api/spotify)]
-</div>
+[![Spotify](https://test-five-omega-80.vercel.app/api/spotify)]
