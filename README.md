@@ -72,3 +72,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://justme017.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+</div>
+
+###
