@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋  I'm Shubham Mehta aka Just me </h1>
 
+<h1 align="center">Hey 👋 What's Up?</h1>
+
 ###
 
 <div align="center">
@@ -56,6 +58,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://justme017.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
+
+
 
 ###
 
