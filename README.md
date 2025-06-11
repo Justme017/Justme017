@@ -62,5 +62,5 @@
 ###
 
 &nbsp;<div align="center">
-  [![Spotify](https://justme017.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
+  [[![Spotify](https://justme017.vercel.app/api/spotify)]
 </div>
