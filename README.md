@@ -60,11 +60,15 @@
 </picture>
 
 ###
-&nbsp;<div align="center">
-  ![Spotify](https://test-five-omega-80.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-</div>
+
+[//]: # &nbsp;<div align="center">
+[//]: #   ![Spotify](https://test-five-omega-80.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+[//]: # </div>
 
 ###
+
 &nbsp;<div align="center">
   ![Spotify](https://justme017.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 </div>
+
+###
