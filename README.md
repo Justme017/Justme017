@@ -58,3 +58,7 @@
 </picture>
 
 ###
+
+[![Spotify](https://gitspotify-nine.vercel.app//api/spotify)](https://open.spotify.com/user/31mjlk76xpsvqxdldsxqtbstyr7q)
+
+###
