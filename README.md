@@ -62,5 +62,5 @@
 ###
 
 &nbsp;<div align="center">
-      ![Spotify](https://justme017.vercel.app/api/spotify)
+      [![Spotify](https://justme017.vercel.app/api/spotify)]
 </div>
