@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&height=45&lines=IoT+%26+Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=IoT+%26+Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Always+building+something+new&font=Fira%20Code&center=true&width=440&height=45&color=00D9FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,28 +56,16 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 <br/>
 
 <details open> 
-  <summary><h2>🚀 Featured Projects</h2></summary>
-  
-  <p align="center">
-    <a href="https://github.com/Justme017/Space-Detective">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="Space-Detective">
-    </a>
-    <a href="https://github.com/Justme017/Prompt-Wizard">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="Prompt-Wizard">
-    </a>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/Justme017/Space-Detective"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Space-Detective"></a>
+    <a href="https://github.com/Justme017/Prompt-Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prompt-Wizard"></a>
+    <a href="https://github.com/Justme017/UMi-livebridge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UMi-livebridge"></a>
   </p>
-  
-  <p align="center">
-    <a href="https://github.com/Justme017/UMi-livebridge">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="UMi-livebridge">
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/Justme017?tab=repositories&sort=stargazers">
-      <img alt="View All Projects" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Projects-00D9FF?style=for-the-badge&logoColor=white&logo=repo"/>
-    </a>
-  </p>
+
+  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
