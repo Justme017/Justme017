@@ -32,6 +32,11 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Justme017&style=flat&color=1a1b27&label=Profile+views"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-1a1b27?style=flat&logo=github&logoColor=00D9FF" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-1a1b27?style=flat&logo=bookstack&logoColor=00D9FF" alt="Always Learning"/>
+</p>
+
 <br/>
 
 ## 👨‍💻 About Me
@@ -158,21 +163,14 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-mehta1/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-1a1b27?style=flat&logo=linkedin&logoColor=00D9FF"/>
   </a>
   <a href="https://discordapp.com/users/justme17">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DISCORD-1a1b27?style=flat&logo=discord&logoColor=00D9FF"/>
   </a>
   <a href="https://www.youtube.com/@shubhammehta343">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YOUTUBE-1a1b27?style=flat&logo=youtube&logoColor=00D9FF"/>
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-1a1b27?style=for-the-badge&logo=bookstack&logoColor=00D9FF" alt="Always Learning"/>
 </p>
 
 ---
