@@ -25,11 +25,11 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://github.com/Justme017?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Justme017?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Justme017?color=1a1b27&style=flat&labelColor=1a1b27&logo=star&logoColor=00D9FF&label=Stars"/></a>
   <a href="https://github.com/Justme017?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Justme017?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Justme017?color=1a1b27&labelColor=1a1b27&style=flat&logo=person-add&label=Followers&logoColor=00D9FF"/></a>
   <a href="https://github.com/Justme017">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Justme017&style=for-the-badge&color=00D9FF"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Justme017&style=flat&color=1a1b27&label=Profile+views"/></a>
 </p>
 
 <br/>
@@ -57,7 +57,7 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
     <a href="https://github.com/Justme017/UMi-livebridge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="UMi-livebridge"></a>
   </p>
 
-  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-00D9FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1a1b27?style=flat&logoColor=00D9FF&logo=repo"/></a>
 </details>
 
 <details open> 
