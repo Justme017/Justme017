@@ -1,15 +1,20 @@
-<p align="center">
-  <a href="https://github.com/Justme017">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Shubham+Mehta;IoT+%26+Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Always+building+something+new&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=24" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shubham+Mehta;IoT+%26+Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-mehta1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/justme17"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@shubhammehta343"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.linkedin.com/in/shubham-mehta1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discordapp.com/users/justme17" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@shubhammehta343" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
 <br/>
@@ -30,13 +35,18 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
   
-  <!-- Add your top projects here -->
-  <p align="left">
-    <a href="https://github.com/Justme017/project1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=project1&theme=tokyonight&hide_border=true" alt="project1"></a>
-    <a href="https://github.com/Justme017/project2"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=project2&theme=tokyonight&hide_border=true" alt="project2"></a>
+  <!-- Replace 'Justme017' with your actual repositories -->
+  <p align="center">
+    <a href="https://github.com/Justme017?tab=repositories">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Justme017&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="Featured Repo 1">
+    </a>
   </p>
   
-  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Projects-00D9FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <p align="center">
+    <a href="https://github.com/Justme017?tab=repositories&sort=stargazers">
+      <img alt="View All Projects" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Projects-00D9FF?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+  </p>
 </details>
 
 <details open> 
@@ -110,12 +120,8 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
   <h3>💻 Profile Stats</h3>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Justme017&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF" height="192px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Shubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justme017&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF" height="192px"/>
-    </a>
+    <img alt="Shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Justme017&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=1a1b27" height="180em"/>
+    <img alt="Shubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justme017&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=1a1b27" height="180em"/>
   </p>
 
   <p align="center">
@@ -125,17 +131,13 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
   <h3>🏆 GitHub Trophies</h3>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app?username=Justme017&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy graph"/>
-    </a>
+    <img src="https://github-profile-trophy.vercel.app?username=Justme017&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="trophy"/>
   </p>
 
   <h3>📈 Contribution Graph</h3>
 
   <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Justme017&custom_title=Shubham's%20Contribution%20Graph&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" />
-    </a>
+    <img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Justme017&custom_title=Shubham's%20Contribution%20Graph&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1a1b27&title_color=00D9FF&area=true&hide_border=true" />
   </p>
 
   <picture>
