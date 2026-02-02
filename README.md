@@ -11,13 +11,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@shubhammehta343"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@shubhammehta343"><img width="40px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/00D9FF/youtube-play.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shubham-mehta1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/shubham-mehta1/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/00D9FF/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/justme17"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/justme17"><img width="40px" alt="Discord" title="Discord" src="https://img.icons8.com/fluency/48/00D9FF/discord-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/justme017"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/justme017"><img width="40px" alt="Dev.to" title="Dev.to" src="https://img.icons8.com/windows/50/00D9FF/dev.png"></a>
 </p>
 
 <br/>
@@ -148,26 +148,32 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 
 </details>
 
-<details>
-  <summary><h2>📫 Get in Touch</h2></summary>
+<h2>📫 Get in Touch</h2>
 
-  <p align="center">
-    I'm always open to interesting conversations and collaboration opportunities!
-  </p>
+<p align="center">
+  <i>I'm always open to interesting conversations and collaboration opportunities!</i>
+</p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/shubham-mehta1/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="https://discordapp.com/users/justme17">
-      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://www.youtube.com/@shubhammehta343">
-      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-  </p>
+<br/>
 
-</details>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-mehta1/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/justme17">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@shubhammehta343">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-1a1b27?style=for-the-badge&logo=bookstack&logoColor=00D9FF" alt="Always Learning"/>
+</p>
 
 ---
 
