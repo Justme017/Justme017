@@ -1,21 +1,46 @@
-<h1 align="center">
+<p align="center">
+  <h1 align="center">Shubham Mehta</h1>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shubham+Mehta;IoT+%26+Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&height=45&lines=IoT+%26+Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Always+building+something+new" alt="Typing SVG" />
   </a>
-</h1>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-mehta1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discordapp.com/users/justme17" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.youtube.com/@shubhammehta343" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <a href="https://www.youtube.com/@shubhammehta343"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/shubham-mehta1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/justme17"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/justme017"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Justme017?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Justme017?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Justme017?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Justme017">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Justme017&style=for-the-badge&color=00D9FF"/></a>
+</p>
+
+<br/>
+
+<!-- GitHub Star badge (if applicable) -->
+<!-- Uncomment and add your GitHub Star badge image when you become a GitHub Star
+<p align="center">
+  <a href="https://stars.github.com/profiles/justme017/">
+    <img src="YOUR_GITHUB_STAR_BADGE_URL" alt="GitHub Star 2024"/></a>
+</p>
+-->
 
 <br/>
 
@@ -35,10 +60,18 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
   
-  <!-- Replace 'Justme017' with your actual repositories -->
   <p align="center">
-    <a href="https://github.com/Justme017?tab=repositories">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Justme017&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="Featured Repo 1">
+    <a href="https://github.com/Justme017/Space-Detective">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="Space-Detective">
+    </a>
+    <a href="https://github.com/Justme017/Prompt-Wizard">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="Prompt-Wizard">
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/Justme017/UMi-livebridge">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="UMi-livebridge">
     </a>
   </p>
   
@@ -82,6 +115,7 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&logoColor=white"></a>
       <a href="#"><img alt="ESP32" src="https://custom-icon-badges.demolab.com/badge/ESP32-E7352C.svg?logo=espressif&logoColor=white"></a>
+      <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white"></a>
   </p>
 
   <h3>☁️ Cloud & Databases</h3>
@@ -115,29 +149,6 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham's streak" src="https://streak-stats.demolab.com?user=Justme017&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"/>
     </a>
-  </p>
-
-  <h3>💻 Profile Stats</h3>
-
-  <p align="center">
-    <img alt="Shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Justme017&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=1a1b27" height="180em"/>
-    <img alt="Shubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justme017&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=1a1b27" height="180em"/>
-  </p>
-
-  <p align="center">
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-  <h3>🏆 GitHub Trophies</h3>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Justme017&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=1a1b27" alt="trophy"/>
-  </p>
-
-  <h3>📈 Contribution Graph</h3>
-
-  <p align="center">
-    <img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Justme017&custom_title=Shubham's%20Contribution%20Graph&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1a1b27&title_color=00D9FF&area=true&hide_border=true" />
   </p>
 
   <picture>
