@@ -34,13 +34,11 @@
 
 <br/>
 
-<!-- GitHub Star badge (if applicable) -->
-<!-- Uncomment and add your GitHub Star badge image when you become a GitHub Star
+<!-- GitHub Star section -->
 <p align="center">
   <a href="https://stars.github.com/profiles/justme017/">
-    <img src="YOUR_GITHUB_STAR_BADGE_URL" alt="GitHub Star 2024"/></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="GitHub Star" height="150"/></a>
 </p>
--->
 
 <br/>
 
