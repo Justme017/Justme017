@@ -34,14 +34,6 @@
 
 <br/>
 
-<!-- GitHub Star section -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/justme017/">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="GitHub Star" height="150"/></a>
-</p>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25hbndieGF6empjM3l6Y2c2Z2Y2b25hc2puNmZqa2VxcjB2bW5vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sr8jYZVVsCmxddga8w/giphy.gif" />
@@ -60,12 +52,12 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Justme017/Space-Detective"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Space-Detective"></a>
-    <a href="https://github.com/Justme017/Prompt-Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prompt-Wizard"></a>
-    <a href="https://github.com/Justme017/UMi-livebridge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UMi-livebridge"></a>
+    <a href="https://github.com/Justme017/Space-Detective"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="Space-Detective"></a>
+    <a href="https://github.com/Justme017/Prompt-Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="Prompt-Wizard"></a>
+    <a href="https://github.com/Justme017/UMi-livebridge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="UMi-livebridge"></a>
   </p>
 
-  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-00D9FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
