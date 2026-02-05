@@ -125,7 +125,7 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-amber-mu.vercel.app?user=Justme017&theme=react" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-amber-mu.vercel.app?user=Justme017&theme=black-ice&hide_border=true&fire=EB8C1D" alt="GitHub Streak" />
   </a>
 </p>
 
