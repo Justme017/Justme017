@@ -129,7 +129,7 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
   <h3>🔥 Streak Stats</h3>
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://streak-stats.demolab.com?user=Justme017&theme=dracula)](https://git.io/streak-stats"
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham's streak" src="https://streak-stats.demolab.com?user=Justme017&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"/>
     </a>
   </p>
