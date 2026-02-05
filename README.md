@@ -52,23 +52,20 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
 
 <br/>
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+<h2>📘 My Top Open Source Projects</h2>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/Justme017/Space-Detective"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="Space-Detective"></a>
-    <a href="https://github.com/Justme017/Prompt-Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="Prompt-Wizard"></a>
-    <a href="https://github.com/Justme017/UMi-livebridge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="UMi-livebridge"></a>
-  </p>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Justme017/Space-Detective"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Space-Detective&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="Space-Detective"></a>
+  <a href="https://github.com/Justme017/Prompt-Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=Prompt-Wizard&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="Prompt-Wizard"></a>
+  <a href="https://github.com/Justme017/UMi-livebridge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justme017&repo=UMi-livebridge&theme=react&bg_color=1a1b27&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false" alt="UMi-livebridge"></a>
+</p>
 
-  <a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1a1b27?style=flat&logoColor=00D9FF&logo=repo"/></a>
-</details>
+<a href="https://github.com/Justme017?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1a1b27?style=flat&logoColor=00D9FF&logo=repo"/></a>
 
-<details open> 
-  <summary><h2>🛠️ Tech Stack</h2></summary>
+<h2>🛠️ Tech Stack</h2>
 
-  <h3>👨‍💻 Programming Languages</h3>
+<h3>👨‍💻 Programming Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3AJustme017+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -121,37 +118,30 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   </p>
-</details>
 
-<details open> 
-  <summary><h2>📊 GitHub Stats</h2></summary>
+<h2>📊 GitHub Stats</h2>
 
-  <h3>🔥 Streak Stats</h3>
+<h3>🔥 Streak Stats</h3>
 
-  <p align="center">
-    <a href="https://streak-stats.demolab.com?user=Justme017&theme=dracula)](https://git.io/streak-stats"
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham's streak" src="https://streak-stats.demolab.com?user=Justme017&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham's streak" src="https://streak-stats.demolab.com?user=Justme017&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"/>
+  </a>
+</p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
+</picture>
 
-</details>
+<h2>🎵 Now Playing on Spotify</h2>
 
-<details> 
-  <summary><h2>🎵 Now Playing on Spotify</h2></summary>
-
-  <p align="center">
-    <a href="https://justme017.vercel.app/api/spotify">
-      <img src="https://justme017.vercel.app/api/spotify?background_color=1a1b27&border_color=00D9FF" alt="Spotify Now Playing" />
-    </a>
-  </p>
-
-</details>
+<p align="center">
+  <a href="https://justme017.vercel.app/api/spotify">
+    <img src="https://justme017.vercel.app/api/spotify?background_color=1a1b27&border_color=00D9FF" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 <h2>📫 Get in Touch</h2>
 
