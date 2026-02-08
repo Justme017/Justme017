@@ -135,6 +135,7 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Justme017/Justme017/output/pacman-contribution-graph.svg">
 </picture>
 
+<!--
 <h2>🎵 Now Playing on Spotify</h2>
 
 <p align="center">
@@ -142,6 +143,7 @@ I'm a passionate developer focused on IoT, embedded systems, and AI applications
     <img src="https://justme017.vercel.app/api/spotify?background_color=1a1b27&border_color=00D9FF" alt="Spotify Now Playing" />
   </a>
 </p>
+-->
 
 <h2>📫 Get in Touch</h2>
 
